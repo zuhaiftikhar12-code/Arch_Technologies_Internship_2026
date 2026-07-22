@@ -60,7 +60,7 @@ A console-based application that helps users manage their daily tasks.
 
 ### 🖼️ Output
 
-<p align="center">
+<!-- <p align="center">
   <img src="To_Do_List/screenshots/image1.png" alt="To-Do List Output 1" width="700">
 </p>
 
@@ -70,8 +70,19 @@ A console-based application that helps users manage their daily tasks.
 
 <p align="center">
   <img src="To_Do_List/screenshots/image3.png" alt="To-Do List Output 3" width="700">
+</p> -->
+
+<p align="center">
+  <img src="./To_Do_List_Application_2/screenshots/image1.png" width="700">
 </p>
 
+<p align="center">
+  <img src="./To_Do_List_Application_2/screenshots/image2.png" width="700">
+</p>
+
+<p align="center">
+  <img src="./To_Do_List_Application_2/screenshots/image3.png" width="700">
+</p>
 ---
 
 ### 🎮 3. Number Guessing Game
