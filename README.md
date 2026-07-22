@@ -71,6 +71,7 @@ A console-based application that helps users manage their daily tasks.
 <p align="center">
   <img src="./To_Do_List_Application_2/screenshots/image3.png" width="700">
 </p>
+
 ---
 
 ### 🎮 3. Number Guessing Game
@@ -94,6 +95,7 @@ A fun console-based game where users guess a randomly generated number.
 <p align="center">
   <img src="./Number_Guessing_Game_3/image.png" width="700">
 </p>
+
 ---
 
 ### 🏧 4. ATM Simulation (OOP)
@@ -126,6 +128,7 @@ A simple ATM system developed using Object-Oriented Programming.
 <p align="center">
   <img src="./Atm_Simulation_4/screenshots/iamge3.png" width="700">
 </p>
+
 ---
 
 ## 📚 Skills Learned
