@@ -28,15 +28,15 @@ A GUI-based dice rolling game built using Python Tkinter. Two dice are rolled ra
 ### 🖼️ Output
 
 <p align="center">
-  <img src="./Dice_rolling_game_1/screenshots/image1.png" width="700">
+  <img src="./Dice_rolling_game_1/screenshots/image1.png" width="500">
 </p>
 
 <p align="center">
-  <img src="./Dice_rolling_game_1/screenshots/image2.png" width="700">
+  <img src="./Dice_rolling_game_1/screenshots/image2.png" width="500">
 </p>
 
 <p align="center">
-  <img src="./Dice_rolling_game_1/screenshots/image3.png" width="700">
+  <img src="./Dice_rolling_game_1/screenshots/image3.png" width="500">
 </p>
 
 ---
@@ -116,15 +116,15 @@ A simple ATM system developed using Object-Oriented Programming.
 ### 🖼️ Output
 
 <p align="center">
-  <img src="./Atm_Simulation/screenshots/image1.png" width="700">
+  <img src="./Atm_Simulation_4/screenshots/image1.png" width="700">
 </p>
 
 <p align="center">
-  <img src="./Atm_Simulation/screenshots/image2.png" width="700">
+  <img src="./Atm_Simulation_4/screenshots/image2.png" width="700">
 </p>
 
 <p align="center">
-  <img src="./Atm_Simulation/screenshots/image3.png" width="700">
+  <img src="./Atm_Simulation_4/screenshots/iamge3.png" width="700">
 </p>
 ---
 
