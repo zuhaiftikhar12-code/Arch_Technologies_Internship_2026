@@ -28,15 +28,15 @@ A GUI-based dice rolling game built using Python Tkinter. Two dice are rolled ra
 ### 🖼️ Output
 
 <p align="center">
-  <img src="./Dice_rolling_game/screenshots/image1.png" width="700">
+  <img src="./Dice_rolling_game_1/screenshots/image1.png" width="700">
 </p>
 
 <p align="center">
-  <img src="./Dice_rolling_game/screenshots/image2.png" width="700">
+  <img src="./Dice_rolling_game_1/screenshots/image2.png" width="700">
 </p>
 
 <p align="center">
-  <img src="./Dice_rolling_game/screenshots/image3.png" width="700">
+  <img src="./Dice_rolling_game_1/screenshots/iamge3.png" width="700">
 </p>
 
 ---
@@ -92,7 +92,7 @@ A fun console-based game where users guess a randomly generated number.
 ### 🖼️ Output
 
 <p align="center">
-  <img src="./Number_Guessing_Game/image.png" width="700">
+  <img src="./Number_Guessing_Game_3/image.png" width="700">
 </p>
 ---
 
